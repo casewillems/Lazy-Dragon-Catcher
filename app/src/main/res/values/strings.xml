@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lazy Dragon Catcher</string>
+    <string name="sofa">SOFA $80</string>
+    <string name="mini_fridge">MINI FRIDGE $350</string>
+    <string name="disco_ball">DISCO BALL $425</string>
+    <string name="xbox">XBOX $499</string>
+    <string name="back">BACK</string>
+    <string name="posters">POSTERS $35</string>
+    <string name="television">TELEVISION $199</string>
+    <string name="pillows">PILLOWS $10</string>
+    <string name="setting">Settings Page: Daniel</string>
+    <string name="credit">Credits Page: Daniel</string>
+    <string name="main">Main Page: Case</string>
+    <string name="upgrades">Upgrades Page: Case</string>
+    <string name="snacks">SNACKS $2</string>
+
+</resources>
